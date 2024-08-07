@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Great Gatsby",
+    "title": "The Great Gatsby by F. Scott Fitzgerald"
+  },
+  {
+    "id": 2,
+    "category": "paid",
+    "price": 12.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Sapiens",
+    "title": "Sapiens: A Brief History of Humankind by Yuval Noah Harari"
+  },
+  {
+    "id": 3,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Dune",
+    "title": "Dune by Frank Herbert"
+  },
+  {
+    "id": 4,
+    "category": "paid",
+    "price": 10.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "title": "Harry Potter and the Sorcerer's Stone by J.K. Rowling"
+  },
+  {
+    "id": 5,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Adventures of Sherlock Holmes",
+    "title": "The Adventures of Sherlock Holmes by Arthur Conan Doyle"
+  },
+  {
+    "id": 6,
+    "category": "paid",
+    "price": 8.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Girl with the Dragon Tattoo",
+    "title": "The Girl with the Dragon Tattoo by Stieg Larsson"
+  },
+  {
+    "id": 7,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Pride and Prejudice",
+    "title": "Pride and Prejudice by Jane Austen"
+  },
+  {
+    "id": 8,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "War and Peace",
+    "title": "War and Peace by Leo Tolstoy"
+  },
+  {
+    "id": 9,
+    "category": "paid",
+    "price": 15.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "1984",
+    "title": "1984 by George Orwell"
+  },
+  {
+    "id": 10,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Catcher in the Rye",
+    "title": "The Catcher in the Rye by J.D. Salinger"
+  },
+  {
+    "id": 11,
+    "category": "paid",
+    "price": 9.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "To Kill a Mockingbird",
+    "title": "To Kill a Mockingbird by Harper Lee"
+  },
+  {
+    "id": 12,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Moby-Dick",
+    "title": "Moby-Dick by Herman Melville"
+  },
+  {
+    "id": 13,
+    "category": "paid",
+    "price": 14.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Alchemist",
+    "title": "The Alchemist by Paulo Coelho"
+  },
+  {
+    "id": 14,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Crime and Punishment",
+    "title": "Crime and Punishment by Fyodor Dostoevsky"
+  },
+  {
+    "id": 15,
+    "category": "paid",
+    "price": 7.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Hobbit",
+    "title": "The Hobbit by J.R.R. Tolkien"
+  },
+  {
+    "id": 16,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Jane Eyre",
+    "title": "Jane Eyre by Charlotte Brontë"
+  },
+  {
+    "id": 17,
+    "category": "paid",
+    "price": 13.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Brave New World",
+    "title": "Brave New World by Aldous Huxley"
+  },
+  {
+    "id": 18,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Wuthering Heights",
+    "title": "Wuthering Heights by Emily Brontë"
+  },
+  {
+    "id": 19,
+    "category": "paid",
+    "price": 11.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Lord of the Rings",
+    "title": "The Lord of the Rings by J.R.R. Tolkien"
+  },
+  {
+    "id": 20,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Great Expectations",
+    "title": "Great Expectations by Charles Dickens"
+  },
+  {
+    "id": 21,
+    "category": "paid",
+    "price": 5.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Book Thief",
+    "title": "The Book Thief by Markus Zusak"
+  },
+  {
+    "id": 22,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Anna Karenina",
+    "title": "Anna Karenina by Leo Tolstoy"
+  },
+  {
+    "id": 23,
+    "category": "paid",
+    "price": 6.99,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Shining",
+    "title": "The Shining by Stephen King"
+  },
+  {
+    "id": 24,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Frankenstein",
+    "title": "Frankenstein by Mary Shelley"
+  },
+  {
+    "id": 25,
+    "category": "paid",
+    "price": 12.49,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Da Vinci Code",
+    "title": "The Da Vinci Code by Dan Brown"
+  },
+  {
+    "id": 26,
+    "category": "free",
+    "price": 0.00,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "Little Women",
+    "title": "Little Women by Louisa May Alcott"
+  },
+  {
+    "id": 27,
+    "category": "paid",
+    "price": 8.49,
+    "img_link": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722788984~exp=1722792584~hmac=b73e255db6a8e5c13920672607eea9e537a3d361d9387ac7a6bd7b282043891e&w=740",
+    "name": "The Kite Runner",
+    "title": "The Kite Runner by Khaled Hosseini"
+  }
+]
